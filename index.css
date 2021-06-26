@@ -12,9 +12,9 @@
     margin-left: 50px;
 }
 .butt1{
-    margin-left: 50px;
+    margin-left: 20px;
     margin-top: 30px;
-    width: 450px;
+    width: 350px;
     height: 60px;
     background-color: rgb(68, 164, 202);
     color: white;
@@ -24,9 +24,9 @@
     font-size: 20px;
 }
 .butt2{
-    margin-left: 50px;
+    margin-left: 20px;
     margin-top: 30px;
-    width: 450px;
+    width: 350px;
     height: 60px; 
     background-color:black;
     border: 1px solid rgb(68, 164, 202);
@@ -35,25 +35,25 @@
     font-size: 20px;
 }
 .txt1{
-    margin-left: 50px;
+    margin-left: 20px;
     margin-top: 70px;
    color: white;
    font-size: 53px;
   
 }
 .txt2{
-    margin-left: 50px;
+    margin-left: 20px;
     margin-top: 60px;
     color: white;
 }
 .image{
-    width: 555px;
+    width: 410px;
     margin-top: 60px;
     height: 400px;
 }
 .footer{
     max-width: 500px;
-    margin-left: 70px;
+    margin-left: 20px;
     margin-top: 20px;
    text-align: center;
    line-height: 35px;

@@ -47,14 +47,13 @@
     color: white;
 }
 .image{
-    width: 410px;
+    width: 380px;
     margin-top: 60px;
     height: 400px;
 }
 .footer{
     max-width: 500px;
-    margin-left: 20px;
-    margin-top: 20px;
+    margin:10px;
    text-align: center;
    line-height: 35px;
    color: grey;

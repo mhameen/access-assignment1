@@ -47,7 +47,7 @@
     color: white;
 }
 .image{
-    width: 380px;
+    width: 400px;
     margin-top: 60px;
     height: 400px;
 }
@@ -62,17 +62,24 @@
 
 @media screen and (min-width: 768px) {
 
+
+
+}
+
+@media screen and (min-width: 1024px) {
+
     .part{
         float: left;
     }
     .part1{
+        height: 90vh;
         float: right;
         clear: both;
     }
     .image{
         margin-top: -20px;
        width: 680px;
-       height: 620px;
+       height: 90vh;
     }
     .txt1{
         font-size: 70px;
